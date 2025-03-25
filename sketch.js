@@ -13,7 +13,6 @@ function draw() {
 
   textSize(60);
   textAlign(CENTER);
-  TEXT("SUN XIANGYU", width / 2, HEIGHT / 2);
   text("SUN.XIANGYU", width / 2, height / 2);
 }
 
