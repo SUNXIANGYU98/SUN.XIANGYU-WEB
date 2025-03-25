@@ -10,6 +10,10 @@ function draw() {
   rect(0, height - s, s, s);
   rect(width - s, 0, s, s);
   rect(width - s, height - s, s, s);
+
+  textSize(60);
+  textAlign(CENTER);
+  TEXT("SUN.XIANGYU", width / 2, HEIGHT / 2);
 }
 textSize(60);
 textAlign(CENTER);
