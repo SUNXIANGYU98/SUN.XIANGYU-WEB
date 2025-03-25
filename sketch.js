@@ -15,9 +15,6 @@ function draw() {
   textAlign(CENTER);
   TEXT("SUN.XIANGYU", width / 2, HEIGHT / 2);
 }
-textSize(60);
-textAlign(CENTER);
-TEXT("SUN.XIANGYU", width / 2, HEIGHT / 2);
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
